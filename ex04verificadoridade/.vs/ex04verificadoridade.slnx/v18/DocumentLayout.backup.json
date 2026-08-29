@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\ex04verificadoridade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5B36B2-0F6A-42C7-83A4-AFAFA1BCCDFC}|ex04verificadoridade.csproj|c:\\users\\gabri\\desktop\\faculdade\\poo\\ex04verificadoridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5B36B2-0F6A-42C7-83A4-AFAFA1BCCDFC}|ex04verificadoridade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5B36B2-0F6A-42C7-83A4-AFAFA1BCCDFC}|ex04verificadoridade.csproj|c:\\users\\gabri\\desktop\\faculdade\\poo\\ex04verificadoridade\\verificadoridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5B36B2-0F6A-42C7-83A4-AFAFA1BCCDFC}|ex04verificadoridade.csproj|solutionrelative:verificadoridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "verificadoridade.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\ex04verificadoridade\\verificadoridade.cs",
+              "RelativeDocumentMoniker": "verificadoridade.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\ex04verificadoridade\\verificadoridade.cs",
+              "RelativeToolTip": "verificadoridade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T01:41:06.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\ex04verificadoridade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\ex04verificadoridade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T01:39:19.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

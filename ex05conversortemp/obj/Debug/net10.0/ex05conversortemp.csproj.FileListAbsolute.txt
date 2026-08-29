@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\bin\Debug\net10.0\ex05conversortemp.exe
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\bin\Debug\net10.0\ex05conversortemp.deps.json
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\bin\Debug\net10.0\ex05conversortemp.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\bin\Debug\net10.0\ex05conversortemp.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\bin\Debug\net10.0\ex05conversortemp.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\refint\ex05conversortemp.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conversortemp.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ref\ex05conversortemp.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex05conversortemp\obj\Debug\net10.0\ex05conv.BFC7EDFC.Up2Date

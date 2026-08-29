@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\bin\Debug\net10.0\ex03cadastropessoa.exe
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\bin\Debug\net10.0\ex03cadastropessoa.deps.json
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\bin\Debug\net10.0\ex03cadastropessoa.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\bin\Debug\net10.0\ex03cadastropessoa.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\bin\Debug\net10.0\ex03cadastropessoa.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\refint\ex03cadastropessoa.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cadastropessoa.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ref\ex03cadastropessoa.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex03cadastropessoa\obj\Debug\net10.0\ex03cada.2A7CB058.Up2Date

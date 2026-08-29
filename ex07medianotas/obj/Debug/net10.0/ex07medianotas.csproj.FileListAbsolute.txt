@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\bin\Debug\net10.0\ex07medianotas.exe
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\bin\Debug\net10.0\ex07medianotas.deps.json
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\bin\Debug\net10.0\ex07medianotas.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\bin\Debug\net10.0\ex07medianotas.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\bin\Debug\net10.0\ex07medianotas.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\refint\ex07medianotas.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medianotas.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ref\ex07medianotas.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex07medianotas\obj\Debug\net10.0\ex07medi.3E3D7DA1.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\bin\Debug\net10.0\ex06calculadoraIMC.exe
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\bin\Debug\net10.0\ex06calculadoraIMC.deps.json
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\bin\Debug\net10.0\ex06calculadoraIMC.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\bin\Debug\net10.0\ex06calculadoraIMC.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\bin\Debug\net10.0\ex06calculadoraIMC.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\refint\ex06calculadoraIMC.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calculadoraIMC.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ref\ex06calculadoraIMC.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex06CalculadoraIMC\obj\Debug\net10.0\ex06calc.616431C6.Up2Date
