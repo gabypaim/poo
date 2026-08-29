@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex02classeproduto/1.0.0": {
+        "runtime": {
+          "ex02classeproduto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex02classeproduto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

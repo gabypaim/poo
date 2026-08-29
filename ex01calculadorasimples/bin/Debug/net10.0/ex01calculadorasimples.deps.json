@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex01calculadorasimples/1.0.0": {
+        "runtime": {
+          "ex01calculadorasimples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex01calculadorasimples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

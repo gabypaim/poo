@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\bin\Debug\net10.0\ex02classeproduto.exe
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\bin\Debug\net10.0\ex02classeproduto.deps.json
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\bin\Debug\net10.0\ex02classeproduto.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\bin\Debug\net10.0\ex02classeproduto.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\bin\Debug\net10.0\ex02classeproduto.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\refint\ex02classeproduto.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.pdb
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02classeproduto.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ref\ex02classeproduto.dll
+C:\Users\gabri\Desktop\faculdade\poo\ex02classeproduto\obj\Debug\net10.0\ex02clas.B7DF8E09.Up2Date
