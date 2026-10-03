@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\Polimorfismo02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabri\\Desktop\\PolimorfismoExerc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B11D36A-E6E4-F371-C56D-6C8524B00EDF}|Polimorfismo02\\FormasPolimorfismo.csproj|c:\\users\\gabri\\desktop\\faculdade\\poo\\polimorfismo02\\polimorfismo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B11D36A-E6E4-F371-C56D-6C8524B00EDF}|Polimorfismo02\\FormasPolimorfismo.csproj|solutionrelative:polimorfismo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolimorfismoExerc2.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\PolimorfismoExerc2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\PolimorfismoExerc2.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\PolimorfismoExerc2.cs",
+              "RelativeToolTip": "..\\..\\..\\PolimorfismoExerc2.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:47:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\Polimorfismo02\\Polimorfismo02\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo02\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\poo\\Polimorfismo02\\Polimorfismo02\\Program.cs",
+              "RelativeToolTip": "Polimorfismo02\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:47:04.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
