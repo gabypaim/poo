@@ -1,0 +1,14 @@
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\bin\Debug\net10.0\FormasPolimorfismo.exe
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\bin\Debug\net10.0\FormasPolimorfismo.deps.json
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\bin\Debug\net10.0\FormasPolimorfismo.runtimeconfig.json
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\bin\Debug\net10.0\FormasPolimorfismo.dll
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\bin\Debug\net10.0\FormasPolimorfismo.pdb
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.AssemblyInfo.cs
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.dll
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\refint\FormasPolimorfismo.dll
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.pdb
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\FormasPolimorfismo.genruntimeconfig.cache
+C:\Users\GABRIELYPAIMFONTANA\source\repos\Polimorfismo02\Polimorfismo02\obj\Debug\net10.0\ref\FormasPolimorfismo.dll
