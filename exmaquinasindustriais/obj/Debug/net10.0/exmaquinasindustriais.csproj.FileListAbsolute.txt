@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\bin\Debug\net10.0\exmaquinasindustriais.exe
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\bin\Debug\net10.0\exmaquinasindustriais.deps.json
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\bin\Debug\net10.0\exmaquinasindustriais.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\bin\Debug\net10.0\exmaquinasindustriais.dll
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\bin\Debug\net10.0\exmaquinasindustriais.pdb
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.dll
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\refint\exmaquinasindustriais.dll
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.pdb
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquinasindustriais.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\ref\exmaquinasindustriais.dll
+C:\Users\gabri\Desktop\faculdade\poo\exmaquinasindustriais\obj\Debug\net10.0\exmaquin.EC7B9FE8.Up2Date
